@@ -16,17 +16,7 @@
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8",
 		"usingComponents": {
-			"van-button": "./wxcomponents/vant/button/index",
-      "van-popup": "./wxcomponents/vant/popup/index",
-      "van-slider": "./wxcomponents/vant/slider/index",
-      "van-index-bar": "./wxcomponents/vant/index-bar/index",
-      "van-index-anchor": "./wxcomponents/vant/index-anchor/index",
-      "van-uploader": "./wxcomponents/vant/uploader/index",
-      "van-checkbox": "./wxcomponents/vant/checkbox/index",
-      "van-checkbox-group": "./wxcomponents/vant/checkbox-group/index",
-      "van-switch": "./wxcomponents/vant/switch/index",
-      "van-dropdown-menu": "./wxcomponents/vant/dropdown-menu/index",
-      "van-dropdown-item": "./wxcomponents/vant/dropdown-item/index"
+		
     }
 	}
 }

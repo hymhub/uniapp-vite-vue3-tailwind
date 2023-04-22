@@ -1,5 +1,5 @@
 {
-  "name": "uniapp-vue3-tailwind-vant",
+  "name": "uniapp-vite-vue3-tailwind",
   "version": "0.0.0",
   "scripts": {
     "start": "node unistart.js",
