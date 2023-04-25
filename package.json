@@ -9,7 +9,8 @@
     "dev:h5:ssr": "uni --ssr",
     "build:h5": "uni build",
     "build:h5:ssr": "uni build --ssr",
-    "postinstall": "weapp-tw patch"
+    "postinstall": "weapp-tw patch",
+    "initide": "weapp open -p dist/dev/mp-weixin"
   },
   "dependencies": {
     "@dcloudio/uni-app": "3.0.0-3070920230324001",
